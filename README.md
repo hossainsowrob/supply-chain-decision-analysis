@@ -47,7 +47,7 @@ The analysis uses structured supply chain data (`DataCoSupplyChain.csv`) and inc
 ## 📊 Visualizations
 
 ### Shipping Comparison
-![Shipping Comparison](shipping_comparison.png)
+![Shipping Comparison](visuals/shipping_comparison.png)
 
 ### Late Delivery Distribution
 ![Late Delivery](https://github.com/hossainsowrob/supply-chain-decision-analysis/blob/04e3d4c68d2e23552dabef9f882f85ebb9d90dea/visuals/late_delivery.png)
