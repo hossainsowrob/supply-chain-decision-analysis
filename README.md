@@ -1,5 +1,7 @@
 # 📦 Supply Chain Decision Analysis
 
+A data-driven analysis of supply chain performance using Python and hypothesis testing.
+
 ## 📊 Project Overview
 This project analyzes supply chain and logistics data from a global e-commerce dataset (DataCo), widely used in supply chain and analytics research.
 
