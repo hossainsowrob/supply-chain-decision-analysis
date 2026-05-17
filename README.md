@@ -66,6 +66,7 @@ These findings suggest that logistics operations need improvement before scaling
 
 ## ⚙️ Workflow (Kanban)
 ![Kanban](kanban.png)
+![Kanban Workflow](kanban.png)
 
 This project followed a structured Kanban workflow:
 - Backlog: Understanding dataset and defining problem  
